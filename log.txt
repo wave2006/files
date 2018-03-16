@@ -1,3 +1,7 @@
+Command: ./leelaz -w ed26f634 --gpu 0 --gpu 1 --gpu 2 --gpu 3 -v 150000 --gtp --logfile log.txt -r 10 -t 7
+Hardware: Xeon E5-2690 v4, 4x GTX 1080
+Game: https://online-go.com/game/12063810
+
 Using 7 thread(s).
 RNG seed: 10274571783924755276
 Detecting residual layers...v1...128 channels...10 blocks.
