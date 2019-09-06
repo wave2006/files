@@ -1,4 +1,4 @@
-Micro-invasive neurochemical interfaces for probing biomarkers of Parkinson’s disease and mood disorders
+M<b>icro-invasive neurochemical interfaces for probing biomarkers of Parkinson’s disease and mood disorders</b>
 
 Contact: Helen Schwerdt (schwerdt@mit.edu)
 
